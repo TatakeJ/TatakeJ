@@ -1,21 +1,25 @@
-## Hi there 👋
+# 😁 Hi there, I'm Joseph Steven Barreto Cabrera
 
-:computer: **Ingeniero de Software**
-:speak_no_evil: **Desarrollador con creatividad**
+⚙️ Ingeniero de Software | Desarrollador con creatividad
+---
+## 🔍 Sobre mí
+💡 Apasionado por aprender cosas nuevas a diario, intentando fortalecerme en el desarrollo.  
+🎮 Me gusta la programación, aún no sé muy bien en que especializarme pero me atrae el ambito de los video juegos e inteligencía artificial.  
 
-### Sobre mi
+---
 
-:space_invader: **Fan de los videojuegos, música y el gimnacio**
-:family: **Hijo mayor de una familia de 4**
-:nerd_face: **Intento aprender algo nuevo todos los días**
-**Estudio ingeniería de Software**
-**No tengo mucha experiencía en el campo pero estoy muy dispuesto a aprender lo necesario**
-**Soy desarrollador aún de bajo nivel, pero con muchas ganas de avanzar**
+### 🛠️ Tech Stack & Tools  
+**Lenguajes:**  
+- 🤖 JavaScript
+- 📊 SQL  
 
-### Vias de contacto
-:email: **josephbc@gmail.com**
-![Website](**aun no hay**)
+**Learning:** 
+- 🐍 Python
+- 🐙 Git / GitHub  
 
-### Commits
+---
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/TatakeJ/BibliotecaJB)
+### 📌 Intereses  
+- 🧮 Machine Learning
+- ⚙️ Optimización de procesos
+- 🎮 Desarrollo de video juegos
