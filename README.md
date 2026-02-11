@@ -23,3 +23,10 @@
 - 🧮 Machine Learning
 - ⚙️ Optimización de procesos
 - 🎮 Desarrollo de video juegos
+
+---
+
+### ✨ Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
