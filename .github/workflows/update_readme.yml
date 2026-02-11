@@ -11,8 +11,9 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v4.2.2
-      
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Update README with recent activity
+        uses: TatakeJ/repository-name@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
