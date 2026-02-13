@@ -28,12 +28,12 @@
 
 ### ✨ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [TatakeJ/miRepoCLI](https://github.com/TatakeJ/miRepoCLI)<br>
-2. ⬆️ Pushed undefined commit(s) to [TatakeJ/miRepoCLI](https://github.com/TatakeJ/miRepoCLI)<br>
-3. ⬆️ Pushed undefined commit(s) to [TatakeJ/TatakeJ](https://github.com/TatakeJ/TatakeJ)<br>
-4. ⬆️ Pushed undefined commit(s) to [TatakeJ/TatakeJ](https://github.com/TatakeJ/TatakeJ)<br>
-5. ⬆️ Pushed undefined commit(s) to [TatakeJ/TatakeJ](https://github.com/TatakeJ/TatakeJ)<br>
+1. ✌️ Released [v0.1.0](https://github.com/TatakeJ/RepoReleases/releases/tag/v0.1.0) in [TatakeJ/RepoReleases](https://github.com/TatakeJ/RepoReleases)<br>
+2. ⬆️ Pushed undefined commit(s) to [TatakeJ/RepoReleases](https://github.com/TatakeJ/RepoReleases)<br>
+3. ⬆️ Pushed undefined commit(s) to [TatakeJ/miRepoCLI](https://github.com/TatakeJ/miRepoCLI)<br>
+4. 💪 Opened PR [#1](undefined) in [TatakeJ/miRepoCLI](https://github.com/TatakeJ/miRepoCLI)<br>
+5. ⬆️ Pushed undefined commit(s) to [TatakeJ/miRepoCLI](https://github.com/TatakeJ/miRepoCLI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 13th, 2026, 2:33:41 AM
+Last Updated: Friday, February 13th, 2026, 1:06:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
